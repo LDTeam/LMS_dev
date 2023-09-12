@@ -1,1 +1,1 @@
-# LMS_dev
+# Lerning Managment System (LMS)
